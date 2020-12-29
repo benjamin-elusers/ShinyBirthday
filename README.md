@@ -4,7 +4,7 @@ Here is a shiny app I've made for wishing happy birthday to my colleague Meta!
 
 ## Testing
 
-Click for a (demo)[https://benjamin-elusers.shinyapps.io/ShinyBirthday/]! 
+Click for a [demo](https://benjamin-elusers.shinyapps.io/ShinyBirthday/ "ShinyBirthday app")! 
 _(Shiny app hosted at shinyapps.io)_
 
 ## Description
