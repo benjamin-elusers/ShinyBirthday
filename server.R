@@ -1,6 +1,10 @@
 # Shiny >= 1.4 : code in "R/" directory adjacent to the app will be loaded automatically
-# source("R/birthday_plot.r") 
-# source("R/birthday_song.r")
+library(shiny)
+options(shiny.autoload.r = T)
+source("R/birthday_plot.r") 
+source("R/birthday_song.r")
+source("R/theme_black.r")
+
 NAME="Meta"
 ANIMATION_LOADED=F
 ENCODED=F

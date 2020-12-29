@@ -10,7 +10,7 @@ library(ggthemes)
 library(gifski)
 library(png)
 library(shinyBS)
-source('R/theme_black.R')
+source('R/theme_black.r')
 source('R/birthday_song.r')
 
 birthday=data.frame(age=1:30,years=1:30,current=1*((1:30==30)))

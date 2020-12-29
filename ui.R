@@ -11,6 +11,8 @@ encoding.msg ="...Finalizing encoding..."
 # Shiny >= 1.4 : code in "R/" directory adjacent to the app will be loaded automatically
 # source("R/birthday_plot.r") 
 # source("R/birthday_song.r")
+# source("R/theme_black.r")
+
 jscode <- "
 shinyjs.collapse = function(boxid) { $('#' + boxid).closest('.box').find('[data-widget=collapse]').click(); }
 shinyjs.blink = function(id) { $('#' + id).fadeOut(500).fadeIn(500, blink); }
