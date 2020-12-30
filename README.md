@@ -18,8 +18,8 @@ This app does the following:
 
   - Blinking multicolor birthday wish message using CSS
   - Uncollapse a box using custom JS function
-  - Making and playing birthday song as wave file (.wav)
-  - Showing animated candles as bar plot (saved as .gif)
+  - Making and playing birthday song as wave file (using base64 dataURI)
+  - Showing animated candles as bar plot (saved as temporary .gif)
 
 ## Dependencies
 
