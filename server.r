@@ -80,6 +80,12 @@ server <- function(input, output,session){
            alt = "This is alternate text"
       )}, deleteFile = TRUE)
   })
+  
+  # Show session info
+  output$sessionInfo <- renderText({
+    paste("<code><br/>",paste(capture.output(sessionInfo()),collapse="\n<br/>"),"<br/></code>")
+  })
+  #output$sessionInfo <- renderUI({ code(capture.output(sessionInfo())) })
 }
 
 ## Run the application 

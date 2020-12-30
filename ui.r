@@ -67,6 +67,15 @@ uibody = dashboardBody(
          uiOutput('song'),
          imageOutput(outputId = "birthdayAnim", height=600,width=1000)
     )
+  ),
+  fluidRow(
+    box( id='sessioninfo',
+         title='Session info',
+         status='info',
+         width = 12, 
+         collapsed = T, collapsible = T,
+         htmlOutput("sessionInfo")
+    )
   )
 )
 

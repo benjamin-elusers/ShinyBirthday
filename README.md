@@ -28,5 +28,5 @@ R packages used:
 - *shinyverse*: shiny / shinydashboard / shinyjs / shinyBS / shinybusy / htmltools
 - *tidyverse*: dplyr / readr / stringr / 
 - *graphics*: ggplot2 / ggthemes / gganimate / gifski / png
-- *others* : audio / prettyunits
+- *others* : audio / prettyunits / base64enc
 
