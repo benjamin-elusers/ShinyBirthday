@@ -1,7 +1,7 @@
 # ShinyBirthday
 
 Here is a shiny app I've made for wishing happy birthday to my colleague Meta!
-__All the content is 100% made using R code (e.g. not using any external resource file)__
+> All the content is 100% made using R code !_(e.g. not using any external resource file)_
 
 ## Testing
 
