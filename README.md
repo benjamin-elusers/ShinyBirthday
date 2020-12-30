@@ -15,8 +15,8 @@ This app does the following:
 - Bootstrap button with icon to launch different events
 
 
-  - Blinking multicolor birthday wish message
-  - Uncollapse a box
+  - Blinking multicolor birthday wish message using CSS
+  - Uncollapse a box using custom JS function
   - Making and playing birthday song as wave file (.wav)
   - Showing animated candles as bar plot (saved as .gif)
 
