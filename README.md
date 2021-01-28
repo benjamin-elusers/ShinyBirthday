@@ -8,6 +8,8 @@ Here is a shiny app I've made for wishing happy birthday to my colleague Meta!
 Click for a [demo](https://benjamin-elusers.shinyapps.io/ShinyBirthday/ "ShinyBirthday app")! 
 _(Shiny app hosted at shinyapps.io)_
 
+![Shiny Birthday Plot](https://raw.githubusercontent.com/benjamin-elusers/ShinyBirthday/main/output/outfile.gif)
+
 ## Description
 
 This app does the following:
