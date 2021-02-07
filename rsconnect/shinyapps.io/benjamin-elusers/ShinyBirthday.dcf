@@ -5,9 +5,9 @@ account: benjamin-elusers
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 3434950
-bundleId: 4040388
+bundleId: 4040563
 url: https://benjamin-elusers.shinyapps.io/ShinyBirthday/
-when: 1609285888.19392
+when: 1609291619.57003
 asMultiple: FALSE
 asStatic: FALSE
-ignoredFiles: app.r|birthday_song.wav|LICENSE|outfile.gif|README.md
+ignoredFiles: app.r|LICENSE|README.md|output/birthday_song.wav|output/outfile.gif
